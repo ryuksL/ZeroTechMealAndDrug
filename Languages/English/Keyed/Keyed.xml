@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- FPS -->
+  <NoWaterPawninner>Compressed content:</NoWaterPawninner>
+  <NoWaterPawnUnzip>Unzip</NoWaterPawnUnzip>
+  <NoWaterPawnUnzipD>Re-decompress the compressed creature, and the decompressed creature will take a while to recover.</NoWaterPawnUnzipD>
+</LanguageData>
