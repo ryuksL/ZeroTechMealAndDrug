@@ -1,26 +1,25 @@
 using RimWorld;
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class IngestionOutcomeDoer_CleanBody : IngestionOutcomeDoer
 {
-    public class IngestionOutcomeDoer_CleanBody : IngestionOutcomeDoer
+    protected override void DoIngestionOutcomeSpecial(Pawn pawn, Thing ingested)
     {
-        protected override void DoIngestionOutcomeSpecial(Pawn pawn, Thing ingested)
-        {
-            pawn.health.RestorePart(GetTorso(pawn));
-        }
+        pawn.health.RestorePart(GetTorso(pawn));
+    }
 
-        private BodyPartRecord GetTorso(Pawn pawn)
+    private BodyPartRecord GetTorso(Pawn pawn)
+    {
+        foreach (var notMissingPart in pawn.health.hediffSet.GetNotMissingParts())
         {
-            foreach (var notMissingPart in pawn.health.hediffSet.GetNotMissingParts())
+            if (notMissingPart.def.defName.Contains("Torso"))
             {
-                if (notMissingPart.def.defName.Contains("Torso"))
-                {
-                    return notMissingPart;
-                }
+                return notMissingPart;
             }
-
-            return null;
         }
+
+        return null;
     }
 }

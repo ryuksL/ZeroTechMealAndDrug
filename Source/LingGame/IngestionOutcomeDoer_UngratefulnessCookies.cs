@@ -1,13 +1,12 @@
 using RimWorld;
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class IngestionOutcomeDoer_UngratefulnessCookies : IngestionOutcomeDoer
 {
-    public class IngestionOutcomeDoer_UngratefulnessCookies : IngestionOutcomeDoer
+    protected override void DoIngestionOutcomeSpecial(Pawn pawn, Thing ingested)
     {
-        protected override void DoIngestionOutcomeSpecial(Pawn pawn, Thing ingested)
-        {
-            pawn.relations.ClearAllRelations();
-        }
+        pawn.relations.ClearAllRelations();
     }
 }
