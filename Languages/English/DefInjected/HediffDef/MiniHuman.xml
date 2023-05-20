@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingNoWaterPawnLoseWater.label>High-speed dehydration</LingNoWaterPawnLoseWater.label>
+  <LingNoWaterPawnLoseWater.description>An extremely violent, but not fatal, dehydration reaction that turns the organism into a mass of organic matter that can be rehydrated and restored to its original form.</LingNoWaterPawnLoseWater.description>
+  <LingNoWaterPawnLoseWater.stages.0.label>Mild</LingNoWaterPawnLoseWater.stages.0.label>
+  <LingNoWaterPawnLoseWater.stages.1.label>Moderate</LingNoWaterPawnLoseWater.stages.1.label>
+  <LingNoWaterPawnLoseWater.stages.2.label>Severe</LingNoWaterPawnLoseWater.stages.2.label>
+  <LingHaveWaterPawn.label>Dehydration recovery</LingHaveWaterPawn.label>
+  <LingHaveWaterPawn.description>Weakness due to excessive dehydration can be recovered quickly, but it takes a long time to get rid of it completely..</LingHaveWaterPawn.description>
+  <LingHaveWaterPawn.stages.0.label>Chronic</LingHaveWaterPawn.stages.0.label>
+  <LingHaveWaterPawn.stages.1.label>Recover</LingHaveWaterPawn.stages.1.label>
+  <LingHaveWaterPawn.stages.2.label>Severe</LingHaveWaterPawn.stages.2.label>
+</LanguageData>

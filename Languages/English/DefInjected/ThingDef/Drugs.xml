@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 怀孕药 -->
+  <PregnantPill.label>Pregnancy medicine</PregnantPill.label>
+  <PregnantPill.description>Make you pregnant, even if you are male or even mechanical.</PregnantPill.description>
+  <!-- 砒霜 -->
+  <Arsenic.label>arsenic</Arsenic.label>
+  <Arsenic.description>Effective poison that can quickly kill eaters.</Arsenic.description>
+  <!-- 驻颜丹 -->
+  <BeautyPill.label>Beauty Elixir</BeautyPill.label>
+  <BeautyPill.description>A mini pill that can make the user beautiful</BeautyPill.description>
+  <!-- 乱情丸 -->
+  <BreakFellingPill.label>Love pills</BreakFellingPill.label>
+  <BreakFellingPill.description>A pill that exudes a strange fragrance, the person who eats it will greatly increase the good impression of anyone after taking it</BreakFellingPill.description>
+  <!-- 醉生梦死 -->
+  <LifeDeathWine.label>In a drunken dream</LifeDeathWine.label>
+  <LifeDeathWine.description>A drink from ancient China...It is a drink of ancient China..</LifeDeathWine.description>
+  <!-- 涤身水 -->
+  <CleanBodyWater.label>Body Washing Water</CleanBodyWater.label>
+  <CleanBodyWater.description>A magical liquid that cleans up almost every state on a creature.</CleanBodyWater.description>
+  <!-- 灵魂燃烧人偶的碎片 -->
+  <!--<SoulEmber_WIP.label>Soul embers</SoulEmber_WIP.label>-->
+  <!--<SoulEmber_WIP.description>The fragments left on the soul burning puppet can burn out the user in a short time, because the volume of the fragments is extremely small compared to the human body, the burning speed will be greatly reduced, but the effect that can be produced will also be weakened. (Due to its unstable nature, it will dissipate in a short time if it is not properly stored) (Not implemented)</SoulEmber_WIP.description>-->
+</LanguageData>

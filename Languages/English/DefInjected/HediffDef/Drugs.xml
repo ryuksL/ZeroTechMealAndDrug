@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 砒霜 -->
+  <ArsenicBuildup.label>arsenic</ArsenicBuildup.label>
+  <ArsenicBuildup.description>This creature is going to die</ArsenicBuildup.description>
+  <!-- 驻颜丹 -->
+  <BeautyPill.label>Beautiful Appearance</BeautyPill.label>
+  <BeautyPill.description>This creature has become so beautiful that everyone will love it.</BeautyPill.description>
+  <!-- 乱情丸 -->
+  <BreakFellingPill.label>Confusion of thought</BreakFellingPill.label>
+  <BreakFellingPill.description>This creature has a blurred perception and looks at everyone like they are their best friend.</BreakFellingPill.description>
+  <!-- 醉生梦死 -->
+  <LifeDeathWine.label>In a drunken dream</LifeDeathWine.label>
+  <LifeDeathWine.description>The creature iss drunk</LifeDeathWine.description>
+</LanguageData>

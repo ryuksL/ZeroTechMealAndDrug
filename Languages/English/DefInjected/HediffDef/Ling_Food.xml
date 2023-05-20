@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 昏睡红茶 -->
+  <FatHappyMeal.label>Fat House Happy Meal</FatHappyMeal.label>
+  <FatHappyMeal.description>The creature appears to be so well-fed that its ability to move is affected.</FatHappyMeal.description>
+  <FuckYouMeal.label>FUMeal</FuckYouMeal.label>
+  <FuckYouMeal.description>Debug.textYou shouldn't see this phrase.</FuckYouMeal.description>
+  <SleeplyRedTea.label>Drowsy black tea</SleeplyRedTea.label>
+  <SleeplyRedTea.description>This creature feels very tired for some reason.</SleeplyRedTea.description>
+</LanguageData>
