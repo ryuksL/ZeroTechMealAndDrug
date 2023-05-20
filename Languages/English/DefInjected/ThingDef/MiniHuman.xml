@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LoseWaterPill.label>Dehydrating agent</LoseWaterPill.label>
+  <LoseWaterPill.description>The consumption of this potion causes the water in the organism to drain out at a high rate, causing it to compress into a pile of organic matter. \It can be recompressed into a creature when needed. If the compressed state is damaged, the decompressed creature may not be complete..</LoseWaterPill.description>
+  <LingNoWaterPawn.label>Compressed creatures</LingNoWaterPawn.label>
+  <LingNoWaterPawn.description>A dehydrated and compressed creature, all physiological states are suspended.</LingNoWaterPawn.description>
+</LanguageData>

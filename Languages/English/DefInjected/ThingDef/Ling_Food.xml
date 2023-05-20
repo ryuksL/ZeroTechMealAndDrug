@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 肥宅增肌餐 -->
+  <FatHealthMeal.label>Fat house muscle-building meal</FatHealthMeal.label>
+  <FatHealthMeal.description>A rich Western-style meal that contains huge calories and is great for weight gain.</FatHealthMeal.description>
+  <!-- 瘦身健康餐 -->
+  <LoseWeightMeal.label>Slimming healthy meals</LoseWeightMeal.label>
+  <LoseWeightMeal.description>A vegetarian diet containing a lot of dietary fiber contains all kinds of nutrients needed by the human body, which is very suitable for weight loss.</LoseWeightMeal.description>
+  <!-- 肥宅快乐餐 -->
+  <FatHappyMeal.label>Fat House Happy Meal</FatHappyMeal.label>
+  <FatHappyMeal.description>An extremely rich variety of meals can make users extremely happy, but consuming so much energy may cause consciousness to be affected.</FatHappyMeal.description>
+  <!-- 嘴臭盒饭 -->
+  <FuckYouMeal.label>FU Lunch Box</FuckYouMeal.label>
+  <FuckYouMeal.description>This is a magical meal~ obviously using the most loving food, but eating it makes people so angry.</FuckYouMeal.description>
+  <!-- 整容盒饭 -->
+  <CosmeticMeal.label>Plastic surgery lunch box</CosmeticMeal.label>
+  <CosmeticMeal.description>The magic mirror tells me who is the most beautiful person in this world ~\nThe magic mirror: not you!</CosmeticMeal.description>
+  <!-- 六亲不认饼 -->
+  <UngratefulnessCookies.label>Six-family pie</UngratefulnessCookies.label>
+  <UngratefulnessCookies.description>A very beautiful-looking cookie, a bite down six relatives, two bites down the nine tribes to forget.</UngratefulnessCookies.description>
+  <!-- 昏睡红茶 -->
+  <SleeplyRedTea.label>Drowsy black tea</SleeplyRedTea.label>
+  <SleeplyRedTea.description>Is black tea the only way to go? Drink it and feel refreshed!.</SleeplyRedTea.description>
+</LanguageData>

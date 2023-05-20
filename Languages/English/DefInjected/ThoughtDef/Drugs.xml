@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 驻颜丹 -->
+  <BeautyPill.stages.0.label>Beautiful Appearance</BeautyPill.stages.0.label>
+  <!-- 乱情丸 -->
+  <BreakFellingPill.stages.0.label>Confusion of thought</BreakFellingPill.stages.0.label>
+  <!-- 醉生梦死 -->
+  <LifeDeathWine.stages.0.label>In a drunken dream</LifeDeathWine.stages.0.label>
+  <LifeDeathWine.stages.0.description>I... I... It's...</LifeDeathWine.stages.0.description>
+</LanguageData>
